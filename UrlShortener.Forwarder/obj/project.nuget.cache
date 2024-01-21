@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQtzNVdTDSE/2wDccgol+mBWIIUzKOn7BnXzz91WpfmVTbKzF1KwWfJsVypgy61bs4ZDWqFvTsrrdozPq1buAQ==",
+  "success": true,
+  "projectFilePath": "/home/m5c/dotnet-core/UrlShortener/UrlShortener.Forwarder/UrlShortener.Forwarder.csproj",
+  "expectedPackageFiles": [
+    "/home/m5c/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/m5c/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/home/m5c/.nuget/packages/stackexchange.redis/2.7.17/stackexchange.redis.2.7.17.nupkg.sha512",
+    "/home/m5c/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
