@@ -10,3 +10,4 @@
 /home/m5c/dotnet-core/UrlShortener/UrlShortener.Data/obj/Debug/net8.0/refint/UrlShortener.Data.dll
 /home/m5c/dotnet-core/UrlShortener/UrlShortener.Data/obj/Debug/net8.0/UrlShortener.Data.pdb
 /home/m5c/dotnet-core/UrlShortener/UrlShortener.Data/obj/Debug/net8.0/ref/UrlShortener.Data.dll
+/home/m5c/dotnet-core/UrlShortener/UrlShortener.Data/obj/Debug/net8.0/UrlShortener.Data.sourcelink.json

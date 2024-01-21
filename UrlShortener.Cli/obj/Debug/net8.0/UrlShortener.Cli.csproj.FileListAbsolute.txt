@@ -34,3 +34,4 @@
 /home/m5c/dotnet-core/UrlShortener/UrlShortener.Cli/obj/Debug/net8.0/UrlShortener.Cli.pdb
 /home/m5c/dotnet-core/UrlShortener/UrlShortener.Cli/obj/Debug/net8.0/UrlShortener.Cli.genruntimeconfig.cache
 /home/m5c/dotnet-core/UrlShortener/UrlShortener.Cli/obj/Debug/net8.0/ref/UrlShortener.Cli.dll
+/home/m5c/dotnet-core/UrlShortener/UrlShortener.Cli/obj/Debug/net8.0/UrlShortener.Cli.sourcelink.json
